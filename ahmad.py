@@ -108,8 +108,8 @@ def menu():
 	print '\033[1;97m[11]\033[1;92m Pakistan'
 	print '\033[1;97m[12]\033[1;92m Indonisia'
 	print '\033[1;97m[13]\033[1;92m Youtube Channel'
-	print '[0]\033[1;97m  Exit            '
-	print "\033[1;96★ﾟ.━━━━━━━━━━━━…・‥☆*´･（AHMAD）･｀*☆・‥…━━━━━━━━━━━ﾟ.★\n" 
+	print '\033[1;97m[0]\033[1;92m  Exit            '
+	print "\033[1;96m★ﾟ.━━━━━━━━━━━━…・‥☆*´･（AHMAD）･｀*☆・‥…━━━━━━━━━━━ﾟ.★\n" 
 	action()
 
 	
