@@ -379,7 +379,7 @@ def action():
 \033[1;91m███████████████████████████████
 	"""
 	raw_input('\n[Press Enter To Go Back]')
-	os.system('python2 .README.md')
+	os.system('python2 ahmad.py')
 		
 if __name__ == '__main__':
 	menu()
